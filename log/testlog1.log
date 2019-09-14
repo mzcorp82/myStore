@@ -56,3 +56,9 @@
 2019-09-14 11:44:30,604 [main] INFO myStore - enter the username
 2019-09-14 11:44:30,739 [main] INFO myStore - enter the password
 2019-09-14 11:44:32,537 [main] INFO myStore - press the sign in button
+2019-09-14 19:25:29,666 [main] INFO myStore - open Website
+2019-09-14 19:25:31,819 [main] INFO myStore - login button pressed
+2019-09-14 19:25:32,002 [main] INFO myStore - enter the username
+2019-09-14 19:25:32,129 [main] INFO myStore - enter the password
+2019-09-14 19:25:33,747 [main] INFO myStore - press the sign in button
+2019-09-14 19:25:33,765 [main] INFO myStore - the login was successfully

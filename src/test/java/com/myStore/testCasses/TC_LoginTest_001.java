@@ -27,7 +27,7 @@ public class TC_LoginTest_001 extends BaseClass{
 		hp.pressSignInBtn();
 		logger.info("press the sign in button");
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-		if(driver.getTitle().equals("My account - My ")){
+		if(driver.getTitle().equals("My account - My Store")){
 			Assert.assertTrue(true);
 			logger.info("the login was successfully");
 		}

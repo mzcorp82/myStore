@@ -91,24 +91,24 @@ public class BlousePageObject {
 	@FindBy(name = "qty")
 	@CacheLookup
 	WebElement  txtquantity;
-	/////////////////////////////////////////////////////////////////////////////////////////
-	@FindBy(xpath = "/html/body/div/div[2]/div/div[3]/div/div/div/div[4]/form/div/div[2]/div/fieldset[1]/div/div/select/option[1]")                                                                                                  
+	
+	@FindBy(xpath = "//*[@id=\"group_1\"]/option[1]")                                                                                                  
 	@CacheLookup
 	WebElement  btnsmallsize;
 
-	@FindBy(xpath = "/html/body/div/div[2]/div/div[3]/div/div/div/div[4]/form/div/div[2]/div/fieldset[1]/div/div/select/option[2]")                                                                                                  
+	@FindBy(xpath = "//*[@id=\"group_1\"]/option[2]")                                                                                                  
 	@CacheLookup
 	WebElement  btnmediumsize;
 
-	@FindBy(xpath = "/html/body/div/div[2]/div/div[3]/div/div/div/div[4]/form/div/div[2]/div/fieldset[1]/div/div/select/option[3]")                                                                                                  
+	@FindBy(xpath = "//*[@id=\"group_1\"]/option[3]")                                                                                                  
 	@CacheLookup
 	WebElement  btnlargsize;
 
-	@FindBy(name = "White")////
+	@FindBy(name = "White")
 	@CacheLookup
 	WebElement  btncolorwhite;
 
-	@FindBy(name = "Black")/////
+	@FindBy(name = "Black")
 	@CacheLookup
 	WebElement  btncolorblack;
 

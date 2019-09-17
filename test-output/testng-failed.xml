@@ -4,16 +4,16 @@
   <test thread-count="5" name="Login Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.myStore.testCasses.TC_LoginTest_001">
+      <class name="com.myStore.testCasses.TC_SanetyTest_002">
         <methods>
           <include name="setExtent"/>
           <include name="setup"/>
           <include name="tearDown"/>
           <include name="tearDown"/>
           <include name="endReport"/>
-          <include name="loginTest"/>
+          <include name="sanetyTest"/>
         </methods>
-      </class> <!-- com.myStore.testCasses.TC_LoginTest_001 -->
+      </class> <!-- com.myStore.testCasses.TC_SanetyTest_002 -->
     </classes>
   </test> <!-- Login Test(failed) -->
 </suite> <!-- Failed suite [myStore] -->

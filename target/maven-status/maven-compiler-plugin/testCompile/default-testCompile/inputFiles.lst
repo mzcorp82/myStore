@@ -1,7 +1,9 @@
 D:\Eclipse 2019-06\myStore\src\test\java\com\myStore\testCasses\TC_SanetyTest_002.java
 D:\Eclipse 2019-06\myStore\src\test\java\com\myStore\testCasses\TC_LoginTest_001.java
+D:\Eclipse 2019-06\myStore\src\test\java\com\myStore\pageObject\MyAccountPageObject.java
 D:\Eclipse 2019-06\myStore\src\test\java\com\myStore\pageObject\PrintedDressPageObject.java
 D:\Eclipse 2019-06\myStore\src\test\java\com\myStore\pageObject\HomePagePageObject.java
+D:\Eclipse 2019-06\myStore\src\test\java\com\myStore\pageObject\TheSummaryPageObject.java
 D:\Eclipse 2019-06\myStore\src\test\java\com\myStore\testCasses\BaseClass.java
 D:\Eclipse 2019-06\myStore\src\test\java\com\myStore\pageObject\FadedShortSleevePageObject.java
 D:\Eclipse 2019-06\myStore\src\test\java\com\myStore\pageObject\BlousePageObject.java

@@ -6,7 +6,8 @@
 
   	<parameter name="browser" value="chrome" />
     <classes>
-      <class name="com.myStore.testCasses.TC_LoginTest_001"/>
+     <!--   <class name="com.myStore.testCasses.TC_LoginTest_001"/> --> 
+      <class name="com.myStore.testCasses.TC_SanetyTest_002"/>
     </classes>
   </test>
 </suite> 

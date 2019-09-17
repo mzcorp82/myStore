@@ -62,3 +62,99 @@
 2019-09-14 19:25:32,129 [main] INFO myStore - enter the password
 2019-09-14 19:25:33,747 [main] INFO myStore - press the sign in button
 2019-09-14 19:25:33,765 [main] INFO myStore - the login was successfully
+2019-09-16 18:37:37,933 [main] INFO myStore - open Website
+2019-09-16 18:37:40,694 [main] INFO myStore - login button pressed
+2019-09-16 18:37:40,918 [main] INFO myStore - enter the username
+2019-09-16 18:37:41,081 [main] INFO myStore - enter the password
+2019-09-16 18:37:42,600 [main] INFO myStore - press the sign in button
+2019-09-16 18:37:42,621 [main] INFO myStore - the login was successfully
+2019-09-16 18:37:44,615 [main] INFO myStore - Return to the home page
+2019-09-16 18:37:46,548 [main] INFO myStore - The Blouse was chosen
+2019-09-16 18:37:46,695 [main] INFO myStore - We added the dress
+2019-09-16 18:37:46,732 [main] INFO myStore - the item was adedd successfully
+2019-09-16 18:40:37,731 [main] INFO myStore - open Website
+2019-09-16 18:40:39,697 [main] INFO myStore - login button pressed
+2019-09-16 18:40:39,858 [main] INFO myStore - enter the username
+2019-09-16 18:40:39,975 [main] INFO myStore - enter the password
+2019-09-16 18:40:41,502 [main] INFO myStore - press the sign in button
+2019-09-16 18:40:41,518 [main] INFO myStore - the login was successfully
+2019-09-16 18:40:44,151 [main] INFO myStore - Return to the home page
+2019-09-16 18:40:46,226 [main] INFO myStore - The Blouse was chosen
+2019-09-16 18:40:46,440 [main] INFO myStore - We added the dress
+2019-09-16 18:40:46,483 [main] INFO myStore - the item was adedd successfully
+2019-09-16 19:12:55,359 [main] INFO myStore - open Website
+2019-09-16 19:12:57,430 [main] INFO myStore - login button pressed
+2019-09-16 19:12:57,632 [main] INFO myStore - enter the username
+2019-09-16 19:12:57,781 [main] INFO myStore - enter the password
+2019-09-16 19:12:59,317 [main] INFO myStore - press the sign in button
+2019-09-16 19:12:59,336 [main] INFO myStore - the login was successfully
+2019-09-16 19:13:01,669 [main] INFO myStore - Return to the home page
+2019-09-16 19:13:04,410 [main] INFO myStore - The Blouse was chosen
+2019-09-16 19:13:04,559 [main] INFO myStore - We added the dress
+2019-09-16 19:13:04,601 [main] INFO myStore - the item was adedd successfully
+2019-09-16 19:13:07,356 [main] INFO myStore - we are now moving to the checkout
+2019-09-16 19:13:07,364 [main] INFO myStore - you in the order section
+2019-09-17 10:56:21,739 [main] INFO myStore - open Website
+2019-09-17 10:56:23,625 [main] INFO myStore - login button pressed
+2019-09-17 10:56:23,897 [main] INFO myStore - enter the username
+2019-09-17 10:56:24,072 [main] INFO myStore - enter the password
+2019-09-17 10:56:25,648 [main] INFO myStore - press the sign in button
+2019-09-17 10:56:25,668 [main] INFO myStore - the login was successfully
+2019-09-17 10:56:28,483 [main] INFO myStore - Return to the home page
+2019-09-17 10:56:30,849 [main] INFO myStore - The Blouse was chosen
+2019-09-17 10:56:31,007 [main] INFO myStore - We added the dress
+2019-09-17 10:56:31,055 [main] INFO myStore - the item was adedd successfully
+2019-09-17 10:56:33,373 [main] INFO myStore - we are now moving to the checkout
+2019-09-17 10:56:33,380 [main] INFO myStore - you in the order section
+2019-09-17 11:35:00,419 [main] INFO myStore - open Website
+2019-09-17 11:35:02,272 [main] INFO myStore - login button pressed
+2019-09-17 11:35:02,472 [main] INFO myStore - enter the username
+2019-09-17 11:35:02,600 [main] INFO myStore - enter the password
+2019-09-17 11:35:04,066 [main] INFO myStore - press the sign in button
+2019-09-17 11:35:04,080 [main] INFO myStore - the login was successfully
+2019-09-17 11:35:06,016 [main] INFO myStore - Return to the home page
+2019-09-17 11:35:12,039 [main] INFO myStore - The Blouse was chosen
+2019-09-17 11:35:12,150 [main] INFO myStore - We added the dress
+2019-09-17 11:35:12,187 [main] INFO myStore - the item was adedd successfully
+2019-09-17 11:35:15,849 [main] INFO myStore - we are now moving to the checkout
+2019-09-17 11:35:15,856 [main] INFO myStore - you in the order section
+2019-09-17 11:35:15,875 [main] INFO myStore - you are moving to the order page
+2019-09-17 12:14:57,966 [main] INFO myStore - open Website
+2019-09-17 12:14:59,861 [main] INFO myStore - login button pressed
+2019-09-17 12:15:00,034 [main] INFO myStore - enter the username
+2019-09-17 12:15:00,175 [main] INFO myStore - enter the password
+2019-09-17 12:15:02,206 [main] INFO myStore - press the sign in button
+2019-09-17 12:15:02,225 [main] INFO myStore - the login was successfully
+2019-09-17 12:15:04,538 [main] INFO myStore - Return to the home page
+2019-09-17 12:15:06,597 [main] INFO myStore - The Blouse was chosen
+2019-09-17 12:15:06,760 [main] INFO myStore - We added the dress
+2019-09-17 12:15:06,803 [main] INFO myStore - the item was adedd successfully
+2019-09-17 12:15:09,131 [main] INFO myStore - we are now moving to the checkout
+2019-09-17 12:15:09,138 [main] INFO myStore - you in the order section
+2019-09-17 12:15:10,920 [main] INFO myStore - you are moving to the order page
+2019-09-17 12:15:12,070 [main] INFO myStore - you are moving to check the address
+2019-09-17 12:15:12,178 [main] INFO myStore - you agree to the turmse
+2019-09-17 12:15:13,968 [main] INFO myStore - you are moving to check the payment method
+2019-09-17 12:17:05,791 [main] INFO myStore - open Website
+2019-09-17 12:17:08,650 [main] INFO myStore - login button pressed
+2019-09-17 12:17:08,795 [main] INFO myStore - enter the username
+2019-09-17 12:17:08,923 [main] INFO myStore - enter the password
+2019-09-17 12:17:10,967 [main] INFO myStore - press the sign in button
+2019-09-17 12:17:10,983 [main] INFO myStore - the login was successfully
+2019-09-17 12:22:22,375 [main] INFO myStore - open Website
+2019-09-17 12:22:24,275 [main] INFO myStore - login button pressed
+2019-09-17 12:22:24,425 [main] INFO myStore - enter the username
+2019-09-17 12:22:24,540 [main] INFO myStore - enter the password
+2019-09-17 12:22:26,194 [main] INFO myStore - press the sign in button
+2019-09-17 12:22:26,209 [main] INFO myStore - the login was successfully
+2019-09-17 12:22:28,271 [main] INFO myStore - Return to the home page
+2019-09-17 12:22:30,437 [main] INFO myStore - The Blouse was chosen
+2019-09-17 12:22:30,620 [main] INFO myStore - We added the dress
+2019-09-17 12:22:30,656 [main] INFO myStore - the item was adedd successfully
+2019-09-17 12:22:32,774 [main] INFO myStore - we are now moving to the checkout
+2019-09-17 12:22:32,788 [main] INFO myStore - you in the order section
+2019-09-17 12:22:34,101 [main] INFO myStore - you are moving to the order page
+2019-09-17 12:22:35,330 [main] INFO myStore - you are moving to check the address
+2019-09-17 12:22:35,429 [main] INFO myStore - you agree to the turmse
+2019-09-17 12:22:36,869 [main] INFO myStore - you are moving to check the payment method
+2019-09-17 12:22:38,168 [main] INFO myStore - you payed with the bank wire

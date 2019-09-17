@@ -79,8 +79,26 @@ public class HomePagePageObject {
 	@FindBy(xpath="  /html/body/div/div[2]/div/div[2]/div/div[1]/ul[1]/li[3]/div/div[1]/div/a[1]/img")
 	@CacheLookup
 	WebElement  btnprinteddresschoise;
-
-
+	
+	@FindBy(id = "email_create")
+	@CacheLookup
+	WebElement txtemailaddress;
+	
+	@FindBy(xpath = "//*[@id=\"SubmitCreate\"]/span")
+	@CacheLookup
+	WebElement btncreateaccount;
+	
+	@FindBy(xpath = "//*[@id=\"social_block\"]/ul/li[1]/a")
+	@CacheLookup
+	WebElement btnfacebookfolow;
+	
+	@FindBy(xpath = "//*[@id=\"social_block\"]/ul/li[2]/a")
+	@CacheLookup
+	WebElement btntwitterfolow;
+	
+	@FindBy(xpath = "//*[@id=\"social_block\"]/ul/li[3]/a")
+	@CacheLookup
+	WebElement btnyoutubechanel;
 
 
 	public void pressHomePageBtn (){
@@ -146,6 +164,14 @@ public class HomePagePageObject {
 	public void pressPrintedDressChoise (){
 		btnprinteddresschoise.click();
 	} 
+	
+	public void enterNewEmailForRegistration (String newemail){
+		txtemailaddress.sendKeys(newemail);
+	}
+	
+	public void pressCreateAnAccount (){
+		btncreateaccount.click();
+	}
 
 
 }
